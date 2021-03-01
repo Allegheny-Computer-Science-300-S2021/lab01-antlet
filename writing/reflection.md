@@ -11,26 +11,28 @@ Please write below this line to address the above-mentioned points. Replace the 
 ### First Tool
 
  1. What kind of research is this method or tool used for?
- `TODO`
+ `x`
 
  2. How does this method or tool work? What does it do?
- `TODO`
+ `x`
 
  3. Why do you think that this method or tool was necessary to develop?
- `TODO`
+ `x`
 
- 4. What undesirable consequences could result from the misuse of this method of tool? `TODO`
+ 4. What undesirable consequences could result from the misuse of this method of tool?
+ `x`
 
 
 ### Second Tool
 
  1. What kind of research is this method or tool used for?
- `TODO`
+ `x`
 
  2. How does this method or tool work? What does it do?
- `TODO`
+ `x`
 
  3. Why do you think that this method or tool was necessary to develop?
- `TODO`
+ `x`
 
- 4. What undesirable consequences could result from the misuse of this method of tool? `TODO`
+ 4. What undesirable consequences could result from the misuse of this method of tool?
+ `x`
