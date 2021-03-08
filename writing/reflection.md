@@ -11,16 +11,16 @@ Please write below this line to address the above-mentioned points. Replace the 
 ### First Tool
 
  1. What kind of research is this method or tool used for?
- x
+ The method of computer aided drug design is used for the research of complex biological processes to improve drug discovery.
 
  2. How does this method or tool work? What does it do?
- x
+This method uses algorithms for the study of chemical interaction relationships, computer programs for designing compounds with unusual physico-chemical characteristic, etc.
 
  3. Why do you think that this method or tool was necessary to develop?
- x
+ This method was necessary to develop because it completes large and complex tasks far quicker than humans. Because of this, the speed at which knowledge and progress advances is much greater than the past.
 
  4. What undesirable consequences could result from the misuse of this method of tool?
- x
+ By relying only on this method rather than significant brain-power as well, important aspects could be overlooked.
 
 
 ### Second Tool
