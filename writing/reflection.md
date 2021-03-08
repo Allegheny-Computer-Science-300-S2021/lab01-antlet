@@ -26,13 +26,13 @@ This method uses algorithms for the study of chemical interaction relationships,
 ### Second Tool
 
  1. What kind of research is this method or tool used for?
- x
+ The BLAST (Basic local alignment search tool) is used for finding local similarity between sequences.
 
  2. How does this method or tool work? What does it do?
- x
+ This tool compares nucleotide or protein sequences to sequence databases and calculates the statistical significance of matches.
 
  3. Why do you think that this method or tool was necessary to develop?
- x
+ This tool was necessary to develop for the ease of finding sequence similarities. In the same way that Google is a fast way to find results, this tool acts in the same way.
 
  4. What undesirable consequences could result from the misuse of this method of tool?
- x
+ The misuse of this tool could cause users to interperate the results in a way that in not beneficial. The important thing to remember about the tool is that it only produces the statistical significance based on databases.
